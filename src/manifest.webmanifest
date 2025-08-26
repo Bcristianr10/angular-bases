@@ -1,12 +1,13 @@
 {
   "id": "/angular-bases/",
   "name": "Bases Angular",
-  "short_name": "Bases Angular",
+  "short_name": "Bases",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "orientation": "portrait",
+  "scope": "/angular-bases/",
+  "start_url": "/angular-bases/",
   "icons": [
     {
       "src": "/angular-bases/assets/icons/icon-72x72.png",
