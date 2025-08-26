@@ -1,6 +1,7 @@
 {
-  "name": "bases",
-  "short_name": "bases",
+  "id": "/angular-bases/",
+  "name": "Bases Angular",
+  "short_name": "Bases Angular",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
